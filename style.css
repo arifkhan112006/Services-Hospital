@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;   
+}
+/*========================== NAVBAR II================================================ */
+ 
+ 
+
+/*========================== ABOUT================================================ */
+.box{
+  width: 83vw;
+  height:auto:
+}
+
+/*============================= TAB================================================ */
+
+ .c-t{
+  width: 100vw;
+  height: 100px;
+  
+}
+
+.crd-c{
+  background-color:rgb(26, 135, 84);
+  box-shadow: 5px 5px rgb(47, 204, 112);
+   
+} 
+
+ .crd:hover{
+  background-color:rgb(47, 204, 112);
+  transition: 0.4s;
+ }
+
+
+.icon{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+/*===========================CAROUSEL================================================ */
+.carousel-item img{
+    width: 100%;
+    height:490px;  
+}
+
+
+a:hover {
+  text-decoration: none;
+}
+/* ---------------------------------------------------------------- */
+/* .ab-1{
+  border:1px solid red;
+  height: 100vh;
+  
+
+.ab{
+  border:2px solid rgb(3, 4, 3);
+  height: 66vh;
+  box-sizing: border-box;
+}
+} */
+
+
+
+
+/*------------------------------------------ OWL-Nav---------------------------------- */
+.e-side .owl-nav{
+  color:rgb(26, 135, 84);
+}
+
+
+.e-side .owl-prev, .e-side .owl-next {
+  position: absolute;
+  top:32%;
+  font-size: 2.1rem !important; 
+}
+
+.e-side .owl-prev{
+  left:-24px;
+}
+
+.e-side .owl-next{
+  right: -18px;
+}
+
+.e-side .owl-prev:hover, .e-side .owl-next:hover{
+   color:#ffffff !important;
+  background-color: rgb(26, 135, 84)!important;
+}
+
+
+/* =============================SCROLL-TO-TOP============================================ */
+#scroll-to-top {
+  width: 95px;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  display: none;
+}
+
+#scroll-to-top .s-text{
+  font-size:small;
+  margin-bottom: 5px;
+}
+  
+/* ================================FOOOTER============================================= */
+.c{
+  /* border:1px solid red; */
+  height: 90vh;
+}
+
+.r{
+  /* border:2px solid rgb(255, 224, 23); */
+  height: 90vh;
+  
+}
+
+.link-u{
+  /* border:2px solid rgb(23, 255, 35); */
+  height: 90vh;
+}
+
+.main-p{
+  /* border:2px solid rgb(17, 0, 255); */
+  height: 90vh;
+}
+
+.l-side{
+  /* border:2px solid rgb(255, 0, 0); */
+  height: 90vh;
+}
+
+.main-i{
+  border-bottom:5px solid  rgb(26, 135, 84);
+  width: 100%;
+  height:45vh;
+
+}
+
+.main-ii{
+  /* border:2px solid rgb(255, 0, 234); */
+  width: 100%;
+  height:45vh;
+}
+
+/* ======================================================================================================== */
+/* .foot-I{
+  background-color: rgba(224, 244, 235, 0.6)
+  
+} */
+
+
+  .link-u ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
